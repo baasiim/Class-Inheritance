@@ -23,7 +23,7 @@ def main():
     print("The Electronics Object:",
           brand_object.get_brand())
     print("\n")
-    print("The Computer Project:",
+    print("The Computer Object:",
           os_object.get_brand(),
           os_object.get_os())
     print("\n")
